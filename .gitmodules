@@ -1,0 +1,6 @@
+[submodule "lib/vit"]
+	path = lib/vit
+	url = https://gitlab.freedesktop.org/monado/utilities/vit/
+[submodule "lib/nng"]
+	path = lib/nng
+	url = https://github.com/nanomsg/nng
